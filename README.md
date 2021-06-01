@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cách cài đặt và cập nhật driver đúng nhất.](https://ndata.2k1.org/cach-cai-dat-va-cap-nhat-driver-dung-nhat/1292/2021/)
+- [Sử dụng Tailwind CSS trong NextJS](https://ndata.2k1.org/su-dung-tailwind-css-trong-nextjs/1276/2021/)
+- [Cách cài đặt TensorFlow GPU](https://ndata.2k1.org/cach-cai-dat-tensorflow-gpu/1269/2021/)
+- [Cách thay đổi tần số quét của màn hình rời trên ubuntu](https://ndata.2k1.org/cach-thay-doi-tan-so-quet-cua-man-hinh-roi-tren-ubuntu/1257/2021/)
+- [8 lệnh linux bạn cần biết](https://ndata.2k1.org/8-lenh-linux-ban-can-biet/1248/2021/)
 <!-- BLOG-POST-LIST:END -->
